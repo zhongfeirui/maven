@@ -10,6 +10,6 @@ public class ChapterController {
     @ResponseBody
     public String sayHello() {
         System.out.println("hello spring boot! Chapter!");
-        return "你好瘦花002 spring boot!！";
+        return "你好瘦花0023 spring boot!！";
     }
 }
